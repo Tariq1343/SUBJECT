@@ -1,0 +1,6 @@
+"# SUBJECT" 
+"23CS2101F - Artificial Intelligence" 
+"23CS2203F - Cloud Computing and Security" 
+"23CS2305F - Blockchain Technology" 
+"23CS2402F - Machine Learning and Applications" 
+"23CS2227F - Data Analytics and Visualization" 
